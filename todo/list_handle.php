@@ -1,7 +1,7 @@
 <?php
 
 echo '
-<p>fuck</p>
+<p>test</p>
 ';
 
 ?>
